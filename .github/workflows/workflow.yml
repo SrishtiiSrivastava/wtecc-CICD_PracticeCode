@@ -2,7 +2,7 @@ name: CI Workflow
 on:
   push:
     branches: [ "main" ]
-  pill_requet:
+  pull_requet:
     branches: [ "main" ]
 
 jobs:
